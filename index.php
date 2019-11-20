@@ -1,5 +1,7 @@
 <?php
-echo "Welcome to OpenShift Online Developer Preview";
-echo "<br>To test the database, hit the dbtest.php URL";
-echo "<br><br>This assumes that you have the correct env variables set";
-echo "<BR><BR>The environment variables required are databaseuser, databasepassword, and databasenmae.";
+
+echo "Bienvenido a la Preview de PhP en OpenShift";
+echo "<br>Para ver si funcion la BD, debemos de acceder al archivo: testbd.php";
+echo "<br><br>La aplicación asume que tenemos las variables de entorno correctas, pero hay que cambiarlas";
+echo "<BR><BR>Estas variables requeridas son: databaseuser, databasepassword, and databasename.";
+
